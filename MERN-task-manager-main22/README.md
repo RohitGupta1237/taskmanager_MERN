@@ -1,18 +1,6 @@
  MERN Task Manager
 
 
-### User-side features
-
-- Signup
-- Login
-- Logout
-- Add tasks
-- View tasks
-- Update tasks
-- Delete tasks
-
-
-
 Installation and Setup
 
 1. Install all the dependencies
